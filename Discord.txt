@@ -1,0 +1,51 @@
+```
+SourMetr — Today at 4:09 PM
+hang on im in a meeting
+okay, so firstly, you know nick but you don't know me. I'm ********************* im more of nicks legal consultant at the moment, so from what I've seen you saw the issues already?
+psx — Today at 4:11 PM
+I wouldn't exactly call them issues
+Since there was no code execution
+SourMetr — Today at 4:11 PM
+either way its a yes or a no
+i'll assume yes from your lack of response, so what exactly is it that you want with Nick?
+apparently you paid for a penetration test already and have the issues, so whats the problem if someone else found them?
+psx — Today at 4:14 PM
+Again, no issue since there is no RCE
+SourMetr — Today at 4:15 PM
+thats not how issues work.
+i'd assume youre worried about your reputation and the ability to bypass 2fa and prevent captchas while bruteforcing into everyones account is pretty severe. I'm sure anyone in the field would agree with this?
+thats a pretty rough thing to come back from
+psx — Today at 4:16 PM
+You'd have to make it work first
+SourMetr — Today at 4:16 PM
+it works, i have the PoC
+so the question comes down to are we here to talk business or not?
+psx — Today at 4:17 PM
+What 'business' do you want to talk
+SourMetr — Today at 4:17 PM
+thats not for me to decide, its your software not mine.
+psx — Today at 4:18 PM
+You obviously have some idea of what you want out of this
+SourMetr — Today at 4:18 PM
+seeing how you made a discord account to come antagonize someone for finding issues in a website that "you had pentested" it seems youre pretty upset about this entire situation
+so, once again, we here to talk business or not?
+psx — Today at 4:19 PM
+Extortion isn't business
+SourMetr — Today at 4:19 PM
+nobody has attempted to extort you though?
+also ransomware begs to differ on that. thats a thriving business.
+psx — Today at 4:21 PM
+I just feel bad for Nick who is probably wanting to make a legit business of pen testing and bug bounties and has completely doxed himself and now you're talking for him
+If anything this ends up bad for him
+SourMetr — Today at 4:21 PM
+He clearly wasnt trying to hide.
+So we're gonna do threats now?
+alright, this conversation is going to every single one of your clients.
+Noot Noot — Today at 4:21 PM
+I have never kept any accounts hidden yeah I don’t do blackhat
+SourMetr — Today at 4:22 PM
+Along with that, we will publicly release the PoC along with another issue that you clearly arent aware of.
+Have a good day.
+psx — Today at 4:22 PM
+Ok
+```
