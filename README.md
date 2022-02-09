@@ -1,5 +1,5 @@
 # StakeOver
-The [Stake](https://hellostake.com/) stock trading website is accessed through a mismanaged and insecure custom API. Manipulation of requests allow an attacker to:
+(2/9/2022) The [Stake](https://hellostake.com/) stock trading website is accessed through a mismanaged and insecure custom API. Manipulation of requests allow an attacker to:
 1) Create any number of falsified users on the website
 2) Tie all of these users to referal codes during "Sign Up"
 3) Bypass Captcha Prompts
