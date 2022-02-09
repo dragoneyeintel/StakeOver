@@ -1,4 +1,6 @@
-# StakeOver
+# StakeOver ![Dragon Eye Intelligence][DEI]
+[DEI]:https://github.com/dragoneyeintel/A-Comparative-Analysis-of-Digital-Forensic-Platform-Artifact-Recovery-Capabilities/blob/fdb3456cadce1303e2183c607c3688c0f82f0bb3/imgs/badge.png
+
 (2/9/2022) 
 
 The [Stake](https://hellostake.com/) stock trading website is accessed through a mismanaged and insecure custom API. Manipulation of requests allow an attacker to:
