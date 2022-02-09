@@ -5,7 +5,7 @@ The [Stake](https://hellostake.com/) stock trading website is accessed through a
 3) Bypass Captcha Prompts
 4) Bruteforce Two-Factor Authentication
 
-After finding a number of vulnerabilities on the Stake website, without any intrusive exploitation, the security team decided to personally reach out and intimidate me on discord. A full audit of this site would likely introduce a number of much more serious issues as I did not perform any intrusive auditing. These issues have all been brought to the attention of the Stake security team and disclosed responsibly.
+After finding a number of vulnerabilities on the Stake website, without any intrusive exploitation, the security team decided to personally reach out on discord. A full audit of this site would likely introduce a number of much more serious issues as I did not perform any intrusive auditing. These issues have all been brought to the attention of the Stake security team and disclosed responsibly.
 
 ## Requests
 Bypassing Captcha:
